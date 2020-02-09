@@ -20,6 +20,5 @@ grid-template-columns: 1fr 1fr 1fr;
 
 /* add the .bigItem class */
 .bigItem {
-  grid-row: 2 / 4;
-  grid-column: 2 / 4;
+  grid-area: 2 / 2 / 4 / 4;
 }
